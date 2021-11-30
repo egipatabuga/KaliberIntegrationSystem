@@ -1,0 +1,19 @@
+{
+  "name": "kaliberintegrationsystem",
+  "version": "1.0.0",
+  "description": "Kaliber Integration System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egipatabuga/KaliberIntegrationSystem.git"
+  },
+  "author": "Kaliber Dev Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egipatabuga/KaliberIntegrationSystem/issues"
+  },
+  "homepage": "https://github.com/egipatabuga/KaliberIntegrationSystem#readme"
+}
